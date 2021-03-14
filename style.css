@@ -3,7 +3,7 @@ padding:0;
 margin:0;
  }
 body{
-width:100w;
+width:50w;
 display: flex;
 font-family:sans-serif;
 text-align: center;
@@ -36,7 +36,7 @@ h1{
 
 @media screen and (max-width: 500px){
     .contenedor{
-        grid-template-columns: 1fr;
+
     }
 }
 
