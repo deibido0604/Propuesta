@@ -10,7 +10,8 @@ font-family:sans-serif;
 }
 h1{
  margin:auto;
- margin-top:200px;
+ text-align: center;
+ margin:200px;
 }
 .button{
   position:absolute;
