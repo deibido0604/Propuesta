@@ -34,14 +34,14 @@ h1{
     transform:translateY(-50%) translateX(-80%);
 }
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 400px){
     .contenedor{
 
     }
 }
 
-@media screen and (max-width: 752px){
+@media screen and (max-width: 502px){
     .contenedor{
-        gap: 5px;
+        width: 500px;
     }
 }
