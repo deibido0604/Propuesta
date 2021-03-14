@@ -7,11 +7,12 @@ width:100w;
 height:100vh;
 display: flex;
 font-family:sans-serif;
+text-align: center;
 }
 h1{
  margin:auto;
  text-align: center;
- margin:200px;
+ margin:100px;
 }
 .button{
   position:absolute;
