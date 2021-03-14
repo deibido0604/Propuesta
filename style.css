@@ -34,13 +34,13 @@ h1{
     transform:translateY(-50%) translateX(-80%);
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 500px){
     .contenedor{
         grid-template-columns: 1fr;
     }
 }
 
-@media screen and (max-width: 852px){
+@media screen and (max-width: 752px){
     .contenedor{
         gap: 5px;
     }
